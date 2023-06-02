@@ -79,8 +79,9 @@ h3 {
 }
 .container {
   display: flex;
+  justify-content: space-evenly;
   flex-direction: row;
-  height: 350px;
+  height: 400px;
   padding: 20px;
 }
 
@@ -100,6 +101,7 @@ h3 {
   justify-content: space-around;
   align-items: center;
   margin: 20px;
+  width: 20%;
 }
 
 footer {
